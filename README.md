@@ -18,4 +18,4 @@ Each group of arreas is contained in one CSV file with four fields:
 
 If these polygons get drawn on a google map is should look like below image:
 
-![Sample map-areas](https://github.com/naval-maritime-foss/map-areas/raw/master/map-areas.png "Logo Title Text 1")
+![Sample map-areas](https://github.com/Maritime-Naval-FOSS/map-areas/raw/master/map-areas.png "Logo Title Text 1")
